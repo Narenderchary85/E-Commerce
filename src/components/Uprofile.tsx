@@ -8,7 +8,7 @@ const Uprofile = () => {
                 <div className="mt-20 px-6">
                     <div className="flex justify-between items-start mb-4">
                         <div>
-                            {/* <h2 className="text-2xl font-bold">{user?.name}</h2> */}
+                          
                         </div>
                         <button className="flex items-center text-orange-600 font-medium">
                             <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1" viewBox="0 0 20 20" fill="currentColor">
@@ -28,16 +28,13 @@ const Uprofile = () => {
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                             <div className="bg-white p-4 rounded-lg border border-gray-200">
                                 <p className="text-gray-500 text-sm">Email Address</p>
-                                {/* <p className="font-medium">{user?.email}</p> */}
+                               
 
                             </div>
 
                             <div className="bg-white p-4 rounded-lg border border-gray-200">
                                 <p className="text-gray-500 text-sm">Mobile Number</p>
-                                {/* {user?.details?.phonenumber !== 0 ? (<><p className="font-medium">{user?.details?.phonenumber}</p></>) : null}
-                                <button onClick={() => setEditingField("phonenumber")} className="text-orange-600 text-sm mt-2 font-medium">
-                                    {user?.details?.phonenumber ? (<>Edit</>) : (<>Add</>)}
-                                </button> */}
+                            
                             </div>
 
                             <div className="bg-white p-4 rounded-lg border border-gray-200"></div>

@@ -62,7 +62,7 @@ const Footer = () => {
         <div className="w-full md:w-1/2 lg:w-1/4 flex flex-col gap-8">
           <h1 className="font-medium text-lg">SUBSCRIBE</h1>
           <p>
-            Be the first to get the latest news about trends, promotions, and
+            Be the first to get the latest news about trends, promotions,deals and
             much more!
           </p>
           <div className="flex">
@@ -89,7 +89,7 @@ const Footer = () => {
         <div className="flex flex-col gap-8 md:flex-row">
           <div className="">
             <span className="text-gray-500 mr-4">Language</span>
-            <span className="font-medium">United States | English</span>
+            <span className="font-medium">United States | English | India | Hindi</span>
           </div>
           <div className="">
             <span className="text-gray-500 mr-4">Currency</span>

@@ -29,6 +29,11 @@ const Filter = () => {
                 <option value="physical">Physical</option>
                 <option value="digital">Digital</option>
             </select>
+            <select name="type" className='py-2 px-4 rounded-2xl text-xs font-median bg-[#EBEDED]' id="">
+                <option value="">Highest</option>
+                <option value="physical">Total</option>
+                <option value="digital">Each</option>
+            </select>
       </div>
       <div className=''>
       <select name="type" className='py-2 px-4 rounded-2xl text-xs font-median bg-[#EBEDED]' id="">
