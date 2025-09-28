@@ -26,6 +26,7 @@ const Navicons = () => {
             <div className='absolute p-4 rounded-md top-14  text-sm shadow-[0_3px_10px_rgb(0,0,0,0.2)] z-20'>
                 <Link href="/">Profile</Link>
                 <div className='mt-2 cursor-pointer'>Logout</div>
+                
             </div>
         )
       }

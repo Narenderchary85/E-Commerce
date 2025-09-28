@@ -36,7 +36,7 @@ const Filter = () => {
                 <option value="physical">Price (low to high)</option>
                 <option value="digital">Newest</option>
                 <option value="digital">Oldest</option>
-            </select>
+      </select>
       </div>
     </div>
   )

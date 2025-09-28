@@ -45,7 +45,7 @@ const Add: React.FC = () => {
           disabled={quantity > maxQuantity}
           className="w-36 text-sm rounded-full ring-1 ring-[#F35C7A] text-[#F35C7A] py-2 px-4 transition hover:bg-[#F35C7A] hover:text-white disabled:cursor-not-allowed disabled:bg-pink-200 disabled:text-white"
         >
-          Add to Cart
+          Add to Item Cart
         </button>
       </div>
     </div>
