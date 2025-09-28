@@ -14,7 +14,7 @@ const ProductList = () => {
             <span className='font-median'>Product Name</span>
             <span className='font-semibold'>$49</span>
         </div>
-        {/* <div className='tetx-sm text-gray-500'>My Description</div> */}
+        <div className='tetx-sm text-gray-500'>My Description</div>
         <button className='rounded-2xl ring-1 ring-[#F35C7A] text-[#F35C7A] py-2 px-4 text-xs hover:text-white hover:bg-[#F35C7A] w-max'>Add to Cart</button>
       </Link>
     </div>
