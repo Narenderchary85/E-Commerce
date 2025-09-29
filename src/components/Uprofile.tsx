@@ -38,11 +38,11 @@ const Uprofile = () => {
                             </div>
 
                             <div className="bg-white p-4 rounded-lg border border-gray-200"></div>
-    </div>
-    </div>
-    </div>
-    </div>
-    </div>
+                         </div>
+                     </div>
+                 </div>
+            </div>
+         </div>
     </div>
   )
 }

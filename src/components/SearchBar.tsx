@@ -20,6 +20,9 @@ const SearchBar = () => {
       <button className='cursor-pointer'>
         <Image src="/search.png" alt='' width={16} height={16}/>
       </button>
+      <button className='cursor-pointer'>
+        <Image src="/search.png" alt='' width={16} height={16}/>
+      </button>
     </form>
   )
 }
