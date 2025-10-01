@@ -16,10 +16,6 @@ const Filter = () => {
                 <option value="Size">Size</option>
             </select>
             <select name="type" className='py-2 px-4 rounded-2xl text-xs font-median bg-[#EBEDED]' id="">
-                <option value="">Type</option>
-                <option value="Size">Type</option>
-            </select>
-            <select name="type" className='py-2 px-4 rounded-2xl text-xs font-median bg-[#EBEDED]' id="">
                 <option value="">Color</option>
                 <option value="color">Color</option>
             </select>
