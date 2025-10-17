@@ -19,12 +19,7 @@ const CustomizeProducts = () => {
           <li className='ring-1 ring-[#F35C7A] text-white bg-[#F35C7A] rounded-md py-1 px-4 text-sm cursor-pointer'>Medium</li>
           <li className='ring-1 ring-pink-200 text-white rounded-md py-1 px-4 text-sm cursor-not-allowed bg-pink-200'>Large</li>
         </ul>
-        <h4 className='font-medium'>Choose a model</h4>
-        <ul className='flex items-center gap-3'>
-          <li className='ring-1 ring-[#F35C7A] text-[#F35C7A] rounded-md py-1 px-4 text-sm cursor-pointer'>Small</li>
-          <li className='ring-1 ring-[#F35C7A] text-white bg-[#F35C7A] rounded-md py-1 px-4 text-sm cursor-pointer'>Medium</li>
-          <li className='ring-1 ring-pink-200 text-white rounded-md py-1 px-4 text-sm cursor-not-allowed bg-pink-200'>Large</li>
-        </ul>
+  
     </div>
   )
 }
