@@ -9,6 +9,7 @@ type CartItem = {
   quantity: number;
 };
 
+
 const CartModal: React.FC = () => {
   const cartItems: CartItem[] = [
     {

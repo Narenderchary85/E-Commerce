@@ -19,7 +19,6 @@ const page = () => {
             [name]:value
         })
     }
-
     const handleSubmit=async()=>{
         try{
             const response=await axios.post('http://localhost:8080/signup',signup);
@@ -42,6 +41,7 @@ const page = () => {
       <p className="text-center text-gray-500 text-sm mt-1">
         Please login to your account
       </p>
+      
 
       <form className="mt-6 space-y-5">
       <div>
