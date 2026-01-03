@@ -30,14 +30,7 @@ const Filter = () => {
                 <option value="digital">Digital</option>
             </select>
       </div>
-      <div className=''>
-      <select name="type" className='py-2 px-4 rounded-2xl text-xs font-median bg-[#EBEDED]' id="">
-                <option value="">Sort By</option>
-                <option value="physical">Price (low to high)</option>
-                <option value="digital">Newest</option>
-                <option value="digital">Oldest</option>
-      </select>
-      </div>
+
     </div>
   )
 }
