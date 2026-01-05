@@ -10,6 +10,7 @@ const ProductList = () => {
             <Image src="/product.png" alt='' width={150} height={150} className='absolute object-cover rounded-md z-10 hover:opacity-0 transition-opacity easy duration-500'/>
             <Image src="/product.png" alt='' width={150} height={150} className='absolute object-cover rounded-md '/>
         </div>
+        
         <div className='flex justify-between'>
             <span className='font-median'>Product Name</span>
             <span className='font-semibold'>$49</span>

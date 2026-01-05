@@ -35,14 +35,12 @@ const page = () => {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-indigo-500 to-purple-600">
     <div className="w-full max-w-md bg-white rounded-xl shadow-2xl p-8">
-      
       <h2 className="text-2xl font-bold text-center text-gray-800">
         Welcome Back
       </h2>
       <p className="text-center text-gray-500 text-sm mt-1">
         Please login to your account
       </p>
-
       <form className="mt-6 space-y-5">
       <div>
           <label className="block text-sm font-medium text-gray-700 mb-1">
